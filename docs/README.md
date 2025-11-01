@@ -6,6 +6,7 @@ This folder contains the public legal documents for the PingU app.
 
 - `privacy-policy.html` - Privacy Policy
 - `terms-of-service.html` - Terms of Service
+- `account-deletion.html` - Account Deletion Instructions
 
 ## GitHub Pages Setup
 
@@ -17,6 +18,7 @@ Once GitHub Pages is configured with `/docs` as the source:
 
 - Privacy Policy: `https://vibecoder95.github.io/PingU_Legal_Policy/privacy-policy.html`
 - Terms of Service: `https://vibecoder95.github.io/PingU_Legal_Policy/terms-of-service.html`
+- Account Deletion: `https://vibecoder95.github.io/PingU_Legal_Policy/account-deletion.html`
 
 ### Configuration
 
